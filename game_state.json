@@ -1,0 +1,37 @@
+{
+    "current_scene": 0,
+    "story": "Year: 1897. The morning mist clings to Springer Mountain as you adjust your canvas rucksack.\nBehind you lies Atlanta, a city still rebuilding itself after the war. Ahead stretches the Appalachian Trail - a wild and untamed path north through the mountains.\nIn your pack: basic provisions, a worn map, a brass compass, and hope for a new beginning in these changing times.\nThe trail ahead is barely marked, with occasional blazes carved into trees by those who walked before.\nType 'look' to observe your surroundings, 'inventory' to check your supplies, or start walking with commands like 'go north' or 'follow trail'.\nYou: look\nThe Appalachian Trail in 1897 winds through dense forests of towering trees, with the occasional babbling brook or rocky outcrop breaking up the greenery. Nearby, one might find a weathered wooden sign marking the trail, a moss-covered stone wall from an old homestead, and a cluster of wild blueberry bushes.\nYou: i follow the sign\nThe sign points to a steep incline leading up the mountain. As I climb, the dense forest surrounds me, echoing with the calls of birds and rustling of wildlife.\nYou: look\nThe Appalachian Trail in 1897 winds through dense forests of towering hardwood trees, with occasional clearings offering glimpses of distant mountains. Along the trail, one might find wild blueberries growing in patches, a small stream trickling over rocks, and the occasional abandoned logging camp with rusted tools scattered about.\nYou: i pick up some rusted tools\nAs I picked up the rusted tools, I imagined the hands that once wielded them to clear these very trails, a reminder of the hard work that built this path through the rugged Appalachian wilderness in 1897.\nYou: i keep going along the trail\nAs you continue along the Appalachian Trail in 1897, you pass through dense forests and rocky terrain, enjoying the sights and sounds of nature. The peaceful solitude of the wilderness surrounds you, offering a welcome escape from the hustle and bustle of everyday life.\n\n",
+    "health": 100,
+    "food": 100,
+    "inventory": ["canvas rucksack", "worn map", "brass compass", "water canteen", "simple first aid supplies", "flint and steel", "1 some rusted tools"],
+    "crafting_recipes": {
+        "snare": {
+            "materials": {
+                "rope": 1,
+                "stick": 2
+            },
+            "description": "A simple snare trap for catching small animals."
+        },
+        "shelter": {
+            "materials": {
+                "branches": 5,
+                "leaves": 10
+            },
+            "description": "A basic shelter made from branches and leaves."
+        }
+    },
+    "acts": [
+        {
+            "id": 1,
+            "title": "Act One: The Beginning",
+            "goal": "Find a safe place to rest",
+            "completed": false
+        },
+        {
+            "id": 2,
+            "title": "Act Two: The Journey",
+            "goal": "Locate a mountain pass",
+            "completed": false
+        }
+    ]
+}

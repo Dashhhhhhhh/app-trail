@@ -1,0 +1,57 @@
+{
+    "current_scene": 0,
+    "scene_data": "As you sleep, the cool mountain air gently rustles the leaves overhead, creating a soothing lullaby. The distant hoot of an owl and the faint trickle of a nearby stream combine to create a symphony of nature's night sounds.",
+    "scene_context": {
+        "location": "",
+        "previous_locations": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "environment": {
+            "time_of_day": "",
+            "weather": "",
+            "terrain": ""
+        },
+        "scene_data": "As you sleep, the cool mountain air gently rustles the leaves overhead, creating a soothing lullaby. The distant hoot of an owl and the faint trickle of a nearby stream combine to create a symphony of nature's night sounds.",
+        "discovered_locations": [],
+        "scene_pools": {
+            "item_pool": {
+                "common": [
+                    "branch",
+                    "stone",
+                    "leaf"
+                ],
+                "uncommon": [
+                    "herbs",
+                    "tools",
+                    "rope"
+                ],
+                "rare": [
+                    "coins",
+                    "jewelry",
+                    "weapons"
+                ]
+            },
+            "npc_pool": {
+                "common": [
+                    "traveler",
+                    "hunter",
+                    "farmer"
+                ],
+                "uncommon": [
+                    "vendor",
+                    "guide",
+                    "craftsman"
+                ],
+                "rare": [
+                    "doctor",
+                    "soldier",
+                    "mystic"
+                ]
+            }
+        }
+    }
+}

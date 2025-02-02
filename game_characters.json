@@ -1,0 +1,145 @@
+{
+    "1": {
+        "name": "Old Tom",
+        "type": "guide",
+        "description": "A weathered mountain man with decades of trail experience",
+        "personality": "Wise and patient, with a dry sense of humor",
+        "dialogue_style": "Speaks slowly and deliberately, often using trail wisdom and metaphors",
+        "inventory": {},
+        "memory": {
+            "good_deeds": 0,
+            "bad_deeds": 0
+        },
+        "disposition": 10
+    },
+    "2": {
+        "name": "Sarah Miller",
+        "type": "vendor",
+        "description": "A resourceful trader who travels between mountain communities",
+        "personality": "Sharp-witted and business-savvy, but fair in her dealings",
+        "dialogue_style": "Direct and professional, with a friendly manner",
+        "inventory": {
+            "rope": [
+                2,
+                15
+            ],
+            "dried meat": [
+                5,
+                10
+            ],
+            "water canteen": [
+                1,
+                20
+            ]
+        },
+        "memory": {
+            "good_deeds": 0,
+            "bad_deeds": 0
+        },
+        "disposition": 10
+    },
+    "3": {
+        "name": "John the Hunter",
+        "type": "hunter",
+        "description": "A skilled tracker with knowledge of local game",
+        "personality": "Reserved but helpful, prefers actions to words",
+        "dialogue_style": "Brief and practical, often shares hunting tips",
+        "inventory": {},
+        "memory": {
+            "good_deeds": 0,
+            "bad_deeds": 0
+        },
+        "disposition": 10
+    },
+    "4": {
+        "name": "Eleanor Blackwood",
+        "type": "traveler",
+        "description": "Eleanor is a spirited young woman in her mid-20s, with long brown hair and a determined gaze. She carries a weathered leather backpack and a walking stick, adorned with feathers and beads she's collected along the trail.",
+        "personality": "adventurous, curious, independent",
+        "inventory": {
+            "water canteen": [
+                1,
+                50
+            ],
+            "trail mix": [
+                5,
+                20
+            ],
+            "map of the Appalachian Trail": [
+                1,
+                30
+            ]
+        },
+        "dialogue_style": "Eleanor's speech is direct and to the point, but there's a spark of enthusiasm in her voice when talking about her journey.",
+        "memory": {
+            "good_deeds": 0,
+            "bad_deeds": 0
+        },
+        "disposition": 10
+    },
+    "5": {
+        "name": "Copper",
+        "type": "animal",
+        "description": "A large, sturdy chain of a working dog with a thick copper-red coat and intelligent eyes.",
+        "personality": "Loyal, protective, hardworking",
+        "dialogue_style": "Barks to communicate, whines when concerned",
+        "inventory": null,
+        "memory": {
+            "good_deeds": 0,
+            "bad_deeds": 0
+        },
+        "disposition": 10
+    },
+    "6": {
+        "name": "Ezra Thompson",
+        "type": "Local Guide",
+        "description": "A weathered man in his early 50s, with a bushy gray beard and a wide-brimmed hat. He carries a walking stick and wears a worn-out leather jacket.",
+        "personality": "Wise, resourceful, and cautious.",
+        "dialogue_style": "Speaks in a slow, deliberate manner with a distinct Appalachian drawl.",
+        "inventory": {},
+        "memory": {
+            "good_deeds": 0,
+            "bad_deeds": 0
+        },
+        "disposition": 10
+    },
+    "7": {
+        "name": "Elijah Jenkins",
+        "type": "Local Guide",
+        "description": "A lean man in his late 40s, with weathered skin and a bushy beard. He wears a worn-out plaid shirt, denim overalls, and a tattered wide-brimmed hat.",
+        "personality": "Knowledgeable, resourceful, cautious",
+        "dialogue_style": "Speaks in a slow, deliberate manner with a strong Appalachian accent.",
+        "inventory": {},
+        "memory": {
+            "good_deeds": 0,
+            "bad_deeds": 0
+        },
+        "disposition": 10
+    },
+    "8": {
+        "name": "Evelyn and Jacob Abbott",
+        "type": "Homesteaders",
+        "description": "A kind and welcoming couple living in a quaint homestead, offering hospitality to weary travelers.",
+        "personality": "Hospitable, warm-hearted, resilient",
+        "dialogue_style": "Speak with a soothing tone, exuding genuine care and comfort for the weary travelers.",
+        "memory": {
+            "good_deeds": 0,
+            "bad_deeds": 0
+        },
+        "disposition": 10
+    },
+    "9": {
+        "name": "Ethan",
+        "type": "Outdoor Enthusiast",
+        "description": "Ethan is a seasoned hiker with a passion for nature and adventure. He loves exploring the great outdoors and discovering hidden gems along the trails.",
+        "personality": "Adventurous, curious, friendly",
+        "dialogue_style": "Eagerly listens while interjecting with questions and sharing his own hiking experiences. He speaks with a sense of wonder and excitement about nature."
+    },
+    "10": {
+        "name": "Elena Wildwood",
+        "type": "Hiker and Wilderness Guide",
+        "description": "An experienced hiker who shares stories of wildlife encounters and wilderness adventures.",
+        "personality": "Cautious, knowledgeable, adventurous",
+        "dialogue_style": "Eloquent and filled with anecdotes about nature and survival in the wild."
+    }
+}

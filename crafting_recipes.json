@@ -1,0 +1,142 @@
+{
+    "bow": {
+        "materials": {},
+        "description": "1 sturdy branch (approximately 5-6 feet long)\n- 1 piece of strong, flexible cord (such as paracord or sinew)\n- 1 sharp knife or multi-tool\n\nDescription:\nTo craft a bow for hunting or self-defense while traversing the rugged terrain of the Appalachian Trail, begin by selecting a sturdy branch from a fallen tree. The branch should be straight and free of any cracks or weak spots. Using a sharp knife or multi-tool, carefully remove any small branches or knots from the branch.\n\nNext, determine the desired length of the bow (typically around 5-6 feet) and carefully trim the branch to size. Use the knife to carve notches"
+    },
+    "stick": {
+        "materials": {},
+        "description": "Brief description: To craft a stick, find a straight and sturdy branch of desired length. Use a knife to remove any rough bark and splinters from the branch, creating a smooth and functional stick for various purposes such as hiking, fishing, or crafting other tools."
+    },
+    "cheese wheel": {
+        "materials": {
+            "gallon milk": 10,
+            "lemon": 1,
+            "cheese cloth": 1
+        },
+        "description": "Heat the milk in a pot over a fire until it reaches 85\u00b0C. Squeeze the lemon juice into the milk and stir gently. Let the mixture sit for 15 minutes until it curdles. Strain the curds through a cheese cloth, wrap it tightly, and press it under a heavy weight for several hours to form a cheese wheel."
+    },
+    "fire": {
+        "materials": {
+            "stick": 1,
+            "dry leaves": 1,
+            "flint rock": 1
+        },
+        "description": "Rub the flint rock against the stick to create sparks. Place the dry leaves under the sparks to ignite a fire."
+    },
+    "wheel": {
+        "materials": {
+            "sticks": 8,
+            "vine": 1
+        },
+        "description": "To craft a wheel, first gather 8 sturdy sticks of similar length. Arrange them in a circular shape, slightly overlapping each other. Use the vine to tightly bind the sticks together at the points where they meet. Make sure the vine is wound securely to hold the shape. This simple wheel can be used for various purposes in a wilderness survival situation."
+    },
+    "vine": {
+        "materials": {
+            "long branches": 5,
+            "sharp stone": 1
+        },
+        "description": "Cut and strip the bark off the long branches using the sharp stone to create the vine."
+    },
+    "tent": {
+        "materials": {
+            "sticks": 6,
+            "tarp": 1
+        },
+        "description": "To craft a simple tent, first, find a flat area to set it up. Use 4 sticks to create a square shape by sticking them into the ground at each corner. Then, prop up the 2 remaining sticks in the middle to create a peak. Drape the tarp over the sticks, ensuring it covers the entire structure and secure it in place using rocks or additional sticks around the edges. This makeshift tent provides basic protection against the elements."
+    },
+    "sword": {
+        "materials": {
+            "long": 1,
+            "rock": 1,
+            "leather strips": 2
+        },
+        "description": "Find a long, straight branch to use as the sword's blade. Sharpen one end of the branch using the rock to create a cutting edge. Secure the rock to the branch with the leather strips to act as a handle."
+    },
+    "tarpg": {
+        "materials": {
+            "sticks": 4,
+            "large leaf": 1,
+            "vines": 5
+        },
+        "description": "To craft a tarp, lay out the large leaf on the ground. Place the sticks around the edges to create a frame. Use the vines to tie the sticks together at the corners and along the edges, securing the leaf in place. This makeshift tarp can provide temporary shelter from the elements in the wilderness."
+    },
+    "tarp": {
+        "materials": {
+            "large piece of plastic sheeting": 1,
+            "small rocks": 4,
+            "sticks": 6
+        },
+        "description": "Lay the plastic sheeting flat on the ground. Use the sticks to secure the corners of the sheeting by poking them through the plastic and into the ground. Place a rock on top of each stick to hold the tarp in place."
+    },
+    "weapon": {
+        "materials": {
+            "stick": 1,
+            "sharp rock": 1
+        },
+        "description": "Find a straight and sturdy stick for the spear shaft. Sharpen one end of the stick using the sharp rock to create a point for hunting or self-defense."
+    },
+    "trampoline": {
+        "materials": {
+            "long and flexible branches": 10,
+            "large animal hide": 1,
+            "feet of strong vines": 50
+        },
+        "description": "To craft a trampoline, start by arranging the branches in a circle and securing them together with the vines. Then, stretch the animal hide tightly over the branches and secure it in place with more vines. Trim any excess hide and vines, and your natural trampoline is ready for use."
+    },
+    "": {
+        "materials": {
+            "sticks": 3,
+            "rocks": 5,
+            "dry leaves": 1
+        },
+        "description": "To craft a campfire, arrange the rocks in a circle on the ground. Place the dry leaves in the center and stack the sticks on top in a teepee formation. Use friction or a fire starter to ignite the dry leaves, which will catch the sticks on fire and create a campfire."
+    },
+    "snare": {
+        "materials": {
+            "rope": 1,
+            "stick": 2
+        },
+        "description": "Create a simple snare trap by forming a loop with the rope and securing it to the sticks. Position the snare where small game is likely to pass."
+    },
+    "torch": {
+        "materials": {
+            "stick": 1,
+            "cloth": 1,
+            "fat": 1
+        },
+        "description": "Wrap the cloth around one end of the stick and soak it in animal fat. When lit, this will provide light for several hours."
+    },
+    "fishing pole": {
+        "materials": {
+            "long branch": 1,
+            "vine": 2,
+            "hook": 1
+        },
+        "description": "Create a basic fishing pole by attaching the vine to the branch as a line, and tying the hook to the end."
+    },
+    "shelter": {
+        "materials": {
+            "sticks": 10,
+            "large leaves": 5,
+            "small branches": 20
+        },
+        "description": "To craft a basic shelter, start by laying down 4 long sticks in a square shape on the ground. Place more sticks on top to form a frame. Cover the frame with large leaves to provide a waterproof roof. Use small branches to secure the leaves in place and create walls for extra protection."
+    },
+    "shelt": {
+        "materials": {
+            "sticks": 10,
+            "large leaves": 5,
+            "pieces of long grass": 20
+        },
+        "description": "To craft a basic shelter, start by arranging the sticks in a teepee shape and tie them together at the top with long grass. Cover the frame with large leaves to create a roof and use more long grass to secure the leaves in place. This shelter will provide protection from the elements and can be easily disassembled when needed."
+    },
+    "arrow": {
+        "materials": {
+            "stick": 1,
+            "feather": 1,
+            "sinew": 1,
+            "stone": 1
+        },
+        "description": "To craft an arrow in 1897, start by sharpening one end of a stick to create the arrowhead. Attach a feather to the other end of the stick to stabilize flight. Use sinew or plant fibers to bind the feather securely in place. Lastly, affix a small stone or sharpened bone to the arrowhead for added weight and piercing power."
+    }
+}
